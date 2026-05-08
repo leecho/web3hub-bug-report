@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README-ZH_cn.md)
+[English](README.md) | [简体中文](README_zh-cn.md)
 
 # 🐞 Web3Hub Bug Report
 
